@@ -115,3 +115,9 @@ describe('contacts data view mode', () => {
     });
 })
 
+describe('contacts filter', () => {
+    test('by default', async() => {
+        
+    });
+});
+
